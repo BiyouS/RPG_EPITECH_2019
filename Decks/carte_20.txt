@@ -1,0 +1,5 @@
+Pouvoir de la foret
+7 4
+Druide
+Assets/IMG/carte/carte_20.png
+3

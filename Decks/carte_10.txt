@@ -1,0 +1,5 @@
+Defence
+4 1
+Neutre
+Assets/IMG/carte/carte_10.png
+2

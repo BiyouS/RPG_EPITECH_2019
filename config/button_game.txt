@@ -1,0 +1,4 @@
+1
+1200 10 75 75
+Assets/IMG/button_help_nothing_effect.png
+Assets/IMG/button_help_hoover.png

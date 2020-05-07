@@ -1,0 +1,5 @@
+Grande defense
+15 7
+Guerrier
+Assets/IMG/carte/carte_18.png
+2

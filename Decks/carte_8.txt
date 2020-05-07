@@ -1,0 +1,5 @@
+Barriere indestructible
+10 5
+Guerrier
+Assets/IMG/carte/carte_8.png
+2

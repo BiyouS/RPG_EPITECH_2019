@@ -1,0 +1,5 @@
+Pluit de dague
+8 4
+Assassin
+Assets/IMG/carte/carte_16.png
+3

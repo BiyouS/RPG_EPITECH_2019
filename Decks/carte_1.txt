@@ -1,0 +1,5 @@
+Coup d'épée
+4 1
+Neutre
+Assets/IMG/carte/carte_1.png
+3

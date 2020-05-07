@@ -1,0 +1,10 @@
+3
+540 250 140 70
+Assets/IMG/button_continuer_nothing_effect.png
+Assets/IMG/button_continuer.png
+540 350 140 70
+Assets/IMG/button_menu_nothing_effect.png
+Assets/IMG/button_menu.png
+540 450 140 70
+Assets/IMG/button_quitter_nothing_effect.png
+Assets/IMG/button_quitter.png

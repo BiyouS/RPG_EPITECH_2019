@@ -1,0 +1,5 @@
+Armagedon
+15 7
+Mage
+Assets/IMG/carte/carte_14.png
+3

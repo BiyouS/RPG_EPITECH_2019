@@ -1,0 +1,5 @@
+Mega potion
+10 5
+Druide
+Assets/IMG/carte/carte_21.png
+1

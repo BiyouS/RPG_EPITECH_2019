@@ -1,0 +1,5 @@
+Lame sonic
+12 5
+Assassin
+Assets/IMG/carte/carte_13.png
+3

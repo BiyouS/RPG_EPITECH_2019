@@ -1,0 +1,4 @@
+1
+10 10 75 75
+Assets/IMG/returne_no_effect.png
+Assets/IMG/returne_hoover.png

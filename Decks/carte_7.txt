@@ -1,0 +1,5 @@
+Defense parfaite
+6 1
+Neutre
+Assets/IMG/carte/carte_7.png
+2

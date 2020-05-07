@@ -1,0 +1,5 @@
+Petit bouclier
+2 1
+Neutre
+Assets/IMG/carte/carte_4.png
+2

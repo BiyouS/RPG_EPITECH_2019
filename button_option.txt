@@ -1,0 +1,7 @@
+3
+20 150 50 50
+Assets/IMG/button_nouveau_nothing_effect.png
+20 250 50 50
+Assets/IMG/button_continuer_nothing_effect.png
+20 350 50 50
+Assets/IMG/button_option_nothing_effect.png

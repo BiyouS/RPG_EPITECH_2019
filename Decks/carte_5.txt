@@ -1,0 +1,5 @@
+Lame lourde
+6 2
+Neutre
+Assets/IMG/carte/carte_5.png
+3

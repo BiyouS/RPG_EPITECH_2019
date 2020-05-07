@@ -1,0 +1,10 @@
+3
+10 10 75 75
+Assets/IMG/returne_no_effect.png
+Assets/IMG/returne_hoover.png
+500 380 75 75
+Assets/IMG/moins.png
+Assets/IMG/moins.png
+600 350 75 75
+Assets/IMG/plus.png
+Assets/IMG/plus.png

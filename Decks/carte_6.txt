@@ -1,0 +1,5 @@
+Earthquake
+8 3
+Neutre
+Assets/IMG/carte/carte_6.png
+3

@@ -1,0 +1,5 @@
+Premier secours
+5 2
+Neutre
+Assets/IMG/carte/carte_9.png
+1

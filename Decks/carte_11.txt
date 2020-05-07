@@ -1,0 +1,5 @@
+Taillade
+5 2
+Neutre
+Assets/IMG/carte/carte_11.png
+3

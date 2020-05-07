@@ -1,0 +1,5 @@
+Boule de feux
+10 5
+Mage
+Assets/IMG/carte/carte_12.png
+3

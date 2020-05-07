@@ -1,0 +1,16 @@
+5
+50 150 140 70
+Assets/IMG/button_nouveau_nothing_effect.png
+Assets/IMG/button_nouveau.png
+50 250 140 70
+Assets/IMG/button_continuer_nothing_effect.png
+Assets/IMG/button_continuer.png
+50 350 140 70
+Assets/IMG/button_option_nothing_effect.png
+Assets/IMG/button_option.png
+50 450 140 70
+Assets/IMG/button_credits_nothing_effect.png
+Assets/IMG/button_credits.png
+50 550 140 70
+Assets/IMG/button_quitter_nothing_effect.png
+Assets/IMG/button_quitter.png

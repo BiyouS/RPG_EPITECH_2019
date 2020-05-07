@@ -1,0 +1,5 @@
+Assassination
+15 6
+Assassin
+Assets/IMG/carte/carte_17.png
+3

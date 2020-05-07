@@ -1,0 +1,5 @@
+Petit soin
+2 1
+Neutre
+Assets/IMG/carte/carte_3.png
+1

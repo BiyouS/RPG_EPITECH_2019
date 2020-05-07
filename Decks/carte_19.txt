@@ -1,0 +1,5 @@
+Coup de bouclier
+10 5
+Guerrier
+Assets/IMG/carte/carte_19.png
+3
